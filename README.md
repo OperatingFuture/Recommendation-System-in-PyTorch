@@ -1,0 +1,12 @@
+# Movie Recommendation System in PyTorch
+
+Simple implementation of Stacked AutoEncoders in PyTorch for movies recommendations.
+
+## Installation
+### Requirements
+* Install Anaconda, if you don't already have it. 
+* Create an environment from my environment.yaml file.
+
+### Downloading the code files
+* Clone this repo to your computer.
+* Open the AutoEncoders.py in spyder and run.
